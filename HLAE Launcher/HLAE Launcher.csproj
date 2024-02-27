@@ -230,15 +230,6 @@
       <DependentUpon>HLAELauncher.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="LoadingWindow.xaml">
-      <SubType>Designer</SubType>
-      <Generator>XamlIntelliSenseFileGenerator</Generator>
-    </Page>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="LoadingWindow.xaml.cs">
-      <DependentUpon>LoadingWindow.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -282,9 +273,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="app.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="HLAELauncher.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Fody.6.5.5\build\Fody.targets" Condition="Exists('..\packages\Fody.6.5.5\build\Fody.targets')" />
