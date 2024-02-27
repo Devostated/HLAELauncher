@@ -3,7 +3,7 @@
 An HLAE updater that checks for the version of the executable.
 
 ## Installation & Usage
-Place the HLAE Launcher.exe in your HLAE folder and use it instead of HLAE.exe
+Place the `HLAE Launcher.exe` in your HLAE folder and use it instead of `HLAE.exe`
 
 ![image](https://github.com/Devostated/HLAELauncher/assets/30211694/87d314b6-0dd7-40f6-8d79-20a8f9693790)
 
