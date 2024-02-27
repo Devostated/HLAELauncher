@@ -1,8 +1,5 @@
 ﻿// Left to do:
 // Markdown parser
-// Json parser without DLL
-// Correct button press
-// Close and Minimize button design
 
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
