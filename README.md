@@ -16,4 +16,4 @@ private const string urlRepo = "https://github.com/advancedfx/advancedfx"; // Li
 
 ## Build Requirements
 - Newtonsoft.Json
-- Costura.Fody
+- Costura.Fody (only used for DLL embedding, not necessary for functionality)
